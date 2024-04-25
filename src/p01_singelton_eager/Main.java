@@ -1,6 +1,4 @@
-package src.creational_p01_singelton_eager;
-
-import javax.sound.midi.Soundbank;
+package src.p01_singelton_eager;
 
 public class Main {
     public static void main(String[] args) {

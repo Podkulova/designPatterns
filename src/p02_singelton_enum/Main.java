@@ -1,4 +1,4 @@
-package src.creational_p02_singelton_enum;
+package src.p02_singelton_enum;
 
 public class Main {
     public static void main(String[] args) {

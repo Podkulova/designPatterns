@@ -1,4 +1,4 @@
-package src.creational_p03_singelton_lazy;
+package src.p03_singelton_lazy;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package src.creational_p03_singelton_lazy;
-
-import src.creational_p02_singelton_enum.SimpleCounter;
+package src.p03_singelton_lazy;
 
 public class Main {
     public static void main(String[] args) {

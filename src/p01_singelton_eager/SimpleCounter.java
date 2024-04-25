@@ -1,4 +1,4 @@
-package src.creational_p01_singelton_eager;
+package src.p01_singelton_eager;
 
 public class SimpleCounter {
     private static final SimpleCounter INSTANCE = new SimpleCounter();
