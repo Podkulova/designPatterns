@@ -12,7 +12,7 @@ public class Main {
         // Nastavíme command na ActionListenerCommand
         ActioonListenerCommand clickOpen = new ActionOpen(doc);
         ActioonListenerCommand clickSave = new ActionSave(doc);
-        ActioonListenerCommand clickClose = new ActionSave(doc);
+        ActioonListenerCommand clickClose = new ActionClose(doc);
 
         MenuOptions menu = new MenuOptions(clickOpen, clickSave, clickClose);
 
