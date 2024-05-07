@@ -32,7 +32,7 @@ public class ComputerGame {
         return name;
     }
 
-    public static PegiAgeRating getPegiAgeRating() {
+    public PegiAgeRating getPegiAgeRating() {
         return pegiAgeRating;
     }
 
